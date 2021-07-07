@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513452363940",
+    "project_id": "emperia-developments",
+    "storage_bucket": "emperia-developments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513452363940:android:af812518ade9c9d11dd631",
+        "android_client_info": {
+          "package_name": "com.emperiadevelopments.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513452363940-0cj4rrhkrgbdop3g1fvqv2t2qdjt4r07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emperiadevelopments.app",
+            "certificate_hash": "27e7ad34f76ea190ddbb685ae79c13585dd893a8"
+          }
+        },
+        {
+          "client_id": "513452363940-jsr73r2puh5fe2ss0iuk3jv5d37k9bvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeW3gXcie1d0wrwXZdNrRa8q2Hn9iTl-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513452363940-jsr73r2puh5fe2ss0iuk3jv5d37k9bvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
